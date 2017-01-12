@@ -1,0 +1,6 @@
+D:\Program Files\Project\JSGrowthPlan1\JSGrowthPlan1\bin\JSGrowthPlan1.dll.config
+D:\Program Files\Project\JSGrowthPlan1\JSGrowthPlan1\bin\JSGrowthPlan1.dll
+D:\Program Files\Project\JSGrowthPlan1\JSGrowthPlan1\bin\JSGrowthPlan1.pdb
+D:\Program Files\Project\JSGrowthPlan1\JSGrowthPlan1\obj\Debug\JSGrowthPlan1.csprojResolveAssemblyReference.cache
+D:\Program Files\Project\JSGrowthPlan1\JSGrowthPlan1\obj\Debug\JSGrowthPlan1.dll
+D:\Program Files\Project\JSGrowthPlan1\JSGrowthPlan1\obj\Debug\JSGrowthPlan1.pdb
