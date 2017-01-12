@@ -1,2 +1,8 @@
 kino.razor.js
 razor_vczh.js
+*.zip
+Class.js
+*.config
+*.html
+/Debug
+/bin
